@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Schematic
+
+**Embryo Schematic** is Embryo-Zero's fork of [Xschem](https://github.com/StefanSchippers/xschem), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 
 ## NOTICE
 Xschem is now hosted also on [codeberg](https://codeberg.org/stef_xschem/xschem/).
